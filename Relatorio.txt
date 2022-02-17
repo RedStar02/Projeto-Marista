@@ -1,0 +1,4 @@
+              1:semana
+Início do jogo e seu desenvolvimento.
+Jogo:plataforma 2D.
+Intencao:um jogo com intenção educativa mas não explicita de uma maneira que o jogador  faça uma reflexão e pense nas consequências dos atos.
