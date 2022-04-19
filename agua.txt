@@ -1,0 +1,256 @@
+﻿Estado da Arte: Água
+
+Introdução:
+A água é a fonte vital do planeta e com o passar do tempo, nós negligenciamos muito este recurso tão precioso, o documento a seguir visa retratar o Estado da Arte com base no documento Levantamento do estado da arte: Água, organizado pela Dra. Lucia Helena de Oliveira, Dra. Maria S. de Oliveira Ilha, Dr. Orestes M. Gonçalves, Lais Ywashima e Ricardo Prado Abreu Reis.
+
+Conceitos Fundamentais:
+
+Segundo Oliveira(1999), o gerenciamento e uso de recursos hídricos níveis sistematizados de forma rígida, os tais são:
+
+Macro uso: Sistemas Hidrográficos
+
+Meso uso: Sistemas píblicos urbanos para o abastecimento de água e coleta de esgoto sanitário.
+
+Micro uso: Sistemas Prediais.
+
+Está otimização só foi possível devido a evolução do conceito de uso racional de recurso hídricos, assim destacado em Sautchúk et al(2005).
+
+A implementação do uso racional quando se trata de recursos hídricos se consiste em sistematizar de forma metódica as intervenções para a redução do uso da água na edificação, assim desempenhado a função necessária e utilizando menos recursos para isto.
+
+No entanto em edificações a água potável é utilizada para quase todas as atividades que demandam o uso da mesma, o que acaba causando um disperdicio de água potável, o conjunto de ações voltadas para a gestão da oferta e da demanda de recursos hídricos em edificações é o PCA(Programam de Conservação da Água).
+
+Tendo conhecimento desta informação, um PCA implementado na edificação de forma sistêmica, tem como foco principal em otimizar o uso da água com máxima eficácia possível, garantindo que a atividade seja cumprida e o gasto seja o mínimo possível, nada mais que possa gastar mais do que o necessário e nada menos que possa faltar para a conclusão da atividade.
+
+Categorizado por Oliveira, o desperdidício de recursos hídricos se da quando você tem uma quantidade de água disponível e você utiliza de forma excessiva ou descarta sem a necessidade disto, assim se da uma perda inreparavel, e isto pode ocorrer das seguintes formas:
+
+* Vazamento - Fuga de recursos hídricos de um sistema hirdráulico.
+
+* Mau Desempenho do sistema - Quando o sistema possuí uma falha em seu funcionamento ou opera de forma inadequada.
+
+* Negligência do Usuário - Quando o usuário permite vazão da água por mais tempo que o necessário para cumprir uma determinada atividade.
+
+Medidas de Reutilização da Água:
+
+As medias de reutilização de água por si só já são auto-explicativas, o usuário usa de um sistema simples ou sofisticado para coletar a água utilizada em um a atividade para utilizar em outra, como por exemplo, coletar a água da máquina de lavar para usar posteriormente para lavar o jardim, abaixo segue algumas opções de reuso da água:
+
+* Coletar a água utilizada na máquina de lavar e a armazenar em um recipiente seguro, logo utilizar para lavar calçadas.
+
+* Sistema de armazenamento de água da chuva que deve-se ser posto em um lugar alto, mas acessível para coleta e uso da água da chuva.
+
+Clasificação do uso previsto para a água:
+
+Classe 01: 
+
+Uso previsto: Para a lavagem de carros e outros usos que requerem contato do usuário com a água com possível aspiração de aerossóis.
+
+Tratamento sugerido: Tratamento aeróbico seguido de filtração convencional e cloração.
+
+Parâmetros de qualidade:
+
+* Turbidez - < 5 NTU;
+
+* Coliformes fecais - < 200NPM / 100ml;
+
+* Sólidos dissolvidos totais - < 200 mg/l;
+
+* PH - 06 a 08;
+
+* Cloro residual - 0,5 a 1,5 mg/l.
+
+Classe 02:
+
+Uso previsto: Para limpeza de pisos, irrigação de jardins, manutenção de lagos e canais paisagísticos esceto chafarizes.
+
+Tratmento sugerido: Tratamento biológico aeróbico, filtração de areia e desinfecção.
+
+Parâmetros de qualidade: 
+
+* Turbidez - < 5 NTU;
+
+* Coliformes fecais - < 500NPM / 100ml;
+
+* Cloro Residual - > 0,5 mg/l.
+
+Classe 03:
+
+Uso previsto: Reúso em descargas de bacias sanitárias e enxágue das máquinas de lavar roupas.
+
+Tratamento sugerido: Tratamento aeróbico, filtração e desinfecção.
+
+Tratamento de qualidade:
+
+* Turbidez - < 10 NTU;
+
+* Coliformes fecais - < 500 NPM / 100 ml.
+
+Classe 04:
+
+Uso previsto: Reúso nos pomares cereais, forragens, pastos para gado e outros cultivos através de escoamento superficial ou sistema de irrigação pontual.
+
+Tratamento sugerido: As aplicações de tratamento devem ser feitas 10 dias antes da colheita.
+
+Tratamento de qualidade:
+
+* Coliformes fecais - < 500 NPM / 100 ml;
+
+* Oxigênio Dissolvido - > 2,0 mg/l.
+
+Sautchúk et al ressalta o significado de alguns parâmetros físico-químicos que podem ser encontrados na água de reúso.
+
+* Alto teor de matéria orgânica, isto pode gerar sabor e odor forte;
+
+* Alto teor de surfactantes pode ocasionar, ocasiona em formação de espumas e odor forte;
+
+* Elevada concentração de nitrito, Substância tóxica ao ser humano e causa metahetomoglobina infantil;
+
+* Alto teor de fósforo indica a presença de detergentes superfostados e material fecal;
+
+* Turbidez elevada comprova a presença de sólidos em suspensão.
+
+Com as características requeridas, é capaz de classificar padrões de qualidade.
+
+Caracterização dos sistemas prediais de reúso de água
+
+* Sistemas de coleta de esgoto sanitários - Eles são divididos em dois efluentes chamados de água cinzas e águas negras, a separação possibilita uma melhor filtragem e também define a construção do sistema de tratamento.
+
+* Sistema de tratamento - As águas cinzas são conduzidas a um sistema de tratamento para a eliminação de poluentes e desinfecionar a água, este sistema deve garantir a disposição para a água de reúso.
+
+* Sistema de reservação - Após o tratamento completo, a água é enviada a um reservatório de armazenamento, este armazenamento é exclusivo para águas de reúso, e após isto a água pode ser bombeada diretamente aos pontos de utilização.
+
+* Sistema de distribuição - O sistema de distribuição é contituído de ramais e sub-ramais que levam a água de reúso ao ponto exato para uso.
+
+Requisitos de desempenho dos sistemas de reúso de água:
+
+Segundo Graça e Golçalves(1985) a verificação do desempenho do sistema se baiseia em princípios e comportamentos a partir de um problema maior e com isto serviços e sistemas podem ser medidos em termos com base em necessidadesesperadas pelo usuário, visando o alto desempenho da água de reúso, os sistemas devem ser configurados de forma metódica para boa execução.
+
+* Ter produção e reservação dimensionados para suprir a demanda de água;
+
+* Fornecer água com qualidade adequada à atividade de destino.
+
+* Proporcional fácil operação, monitoramento e fácil manutenção.
+
+* Nenhum sistema de reúso deve resultar em retorno de odores devido a decomposição de objetos orgânicos.
+
+* Ter todas as partes do sistema identificadas a fim de evitar uso inadequado.
+
+Sistemas de aproveitamento de água de chuva em edificações:
+
+O sistema de aproveitamento de água provida da chuva de ser posta em um ambiente externo de fácil acesso, após a coleta da água ela deve ser filtrada para purificação.
+
+Elementos do sistema de aproveitamento da água de chuva:
+
+Os principais elementos dos sistemas prediais são os seguintes:
+
+* Sistema de distribuição - Um sistema constituído por ramais que tem como funcionalidade distribuir a água já tratada;
+
+* Sistema de recalque - É um sistema constitupído por motores e bombas, sua função é transportar a água do reservatório para a utilização;
+
+* Sistema de transporte - É constituído por um conjuto de calhas e condutores verticais e horizontais, para conduzir o fluxo da água para um reservatório, filtragem ou distribuição;
+
+* Sistema de tratamento e desinfecção - Em suma, sua funcionalidade é filtrar a água da chuva para obter uma água com melhor taxa de uso;
+
+* Sistema de gradeamento - O sistema de gradeamento tem como funcionalidade reter materiasi sólidos em suspensão, normalmente instalado antes do reservatório;
+
+* Sistema de descarte - Possuí o objetivo de descartar o volume inicial  da chuva, pois carrega grande taxa de poluentes;
+
+Sistema de sinalização e informação - Segundo Gouvello (2004) a sinalização do sistema de aproveitamento de água da chuva é de extrema importânxia para que não haja utilização inadequada e nem contaminação;
+
+* Sistema de captação - É definido por áreas impermeáveis e que será conduzirá a água a um reservatório para utilização.
+
+Sistemas de infiltração de água da chuva em edificações.
+
+Quando trata-se de sustentabilidade em sistemas de denagem fluvial em uma edificação, muitos fatores devem ser análisados, como o nível do lençol frático, manutenção e intensidade pluviométrica por exemplo.
+
+A grosso modo, sistemas de infiltração de água da chuva geralmente são funcionais, operam de forma sustentável e baixo custo de implementação.
+
+Podem ser citados os sistemas de infiltração de água da chuva:
+
+* Pavimentos permeáveis;
+
+* Planos de infiltração;
+
+* Trincheiras ou valas de infiltração;
+
+* Poços de infiltração;
+
+* Coberturas verdes.
+
+As características principais da gestão de denagem são:
+
+* Aumento das condições de infiltração do solo urbano, ajusto do equilíbrio hídrico natural;
+
+* Retardamento da vazão de contribuição do lote através da retenção e detenção do escoamento superficial.
+
+* Aumento da eficiência do sistema público de drenagem;
+
+* Melhora da qualidade das águas superficiais;
+
+* Aumento da recarga do lençol freático.
+
+Sistemas de infiltração de água pluvial.
+
+São inúmeras as soluções que possibilitam a implantação de sistemas pluviais, e estes são:
+
+* Pavimentos permeáveis - É uma forma simples que funciona permitindo a vazão de água através de blocos permáveis e leva a uma camada de brita ou de pedregulhos, assim formandfo um tipo de reservatório;
+
+* Planos de infiltração - É um sistema simples de infiltração de água da chuva, e ele funciona com base em campos gramados ou preenchidas com material granular;
+
+* Veia de infiltração - É um sistema de infiltração de água bem adequado para a implementação em habitações residenciais, seu funcionamento se da por uma valeta preencida com material granular com porosidade acima de 35% envolto por manta geotêxtil, isto gera uma superfície de drenagem;
+
+* Poço de infiltração - Os poços de infiltração se baseiam em sistemas de drenagem na fote desempenho elevado quanto ao controle de escoamento superficial, o poço é constituído por um tipo de cisterna que é revestida por tubos de concreto perfurados ou tijolos maciços asentados em crivo;
+
+* Telhados de cobertura verde - Segundo a KOLB (2003), edificações com telhados de vegetação rasteira também são uma ótima escolha para sisttemas de drenagem predial para água pluvial, diferente dos outros, este sistema funciona em multicamadas, executado sobre a laje de uma edificação.
+
+Requisitos de desempenho dos sistemas de infiltração de água da chuva.
+
+O desempenho dos sistemas infiltração de água funciona com o seguinte parâmetro, Infiltrar um determinado volume de água da chuva captada pelo sistema predial visando o restabelecedo o balanço hídrico natural, abaixo segue os requisitos básicos para a implementação de sistemas de infiltração:
+
+* A infiltração da água da chuva pelo solo deve ser rápida, assim permitindo o esgotamento do sistema de infiltração após o término da chuva, e por fim, sugere-se que o coeficiente de permeabilidade (K) do solo seja sempre superior a 1X10-6 cm/s.
+
+* A infiltração da água pelo solo, não deve comprometer o solo de forma nenhuma, caso seja perceptível um alto grau de colapsidade, o sistema de infiltração deve ser vedado imediatamente.
+
+* A infiltração da água de maneira nenhuma deve contaminar o solo e nem o lençol freático, e o sistema deve estar no mínimo a 1,50 m acima do maior nível do sazonal do lenço freático.
+
+* Toda a água captada pelo sitema de infiltração deve ser descarregada no sistema público de água pluvial após a redução da capacidade de absorção do solo devido ao seu encharcamento.
+
+* O sistema deve ter uma durabilidade alta a colmatação e manter sua capacidade total com maior tempo sem manutenção.
+
+* O sistema de infiltração não deve ocasionar nenhum problema à vizinhança, no caso sem alagamentos, ruídos ou vibrações.
+
+* O tempo de esvaziamento do sistema de infiltração deve ser o mais rápido possível para que o mesmo funcione full-time mesmo com muitas chuvas ou chuvas muito longas.
+
+* Antes de se executar sistemas de infiltração, a área deve ser checada de forma metódica e o sistema de ser executada no mínimo a 6,0 m ou melhor, três vezes o diâmetro equivalente.
+
+* O sistema de extravasamento deve ser adequado possibilitando que ele atinja a capacidade máxima com eficacia completa.
+
+Metodologias de avaliação.
+
+Neste item, ira ser apresentado tópicos relativos aos sistemas perdiais e ao uso da água constantes com as metodologias de avaliação ambiental de edifícios, assim visando o ponto de reduzir o impacto ambiental.
+
+* EcoHomes - Esta metodologia referência o SPHS em dois itens, energia e poluição;
+
+* LEED for homes - Esta metodologia referência o SPHS a seguir com sítios sustentáveis, energia e atmosfera de educação do usuário, a conservação da água é abordada em um item exclusivo;
+
+* CASBEE - Os SPHS e o uso de água são avaliados nos seguintes itens:
+
+Categoria Q - qualidade do ambiente interno e qualidade dos serviços.
+
+Categoria LR - energia, recursos, materias e ambiente externo.
+
+* Nível 01 - Quando não existe nenhuma medida para manter as funções;
+
+* Nível 02 - Undefined;
+
+* Nível 03 - As medidas tomadas garantem o mínimo de funcionamento dos equipamentos na ocorrência de um desastre;
+
+* Nível 04 - As medidas tomadas garantem um funcionamento parcial dos equipamentos em caso de desastres;
+
+* Nível 05 - As medidas tomadas garantem funcionamento compelto dos equipamentos em caso de desastres.
+
+Certification Habitat et Environment.
+
+Este capítulo trata da conservação da água em 3 tópicos, e estes são: espaços privativos, espaços coletivos e sistemas de água pluvial, abaixo segue uma explicação mais detalhada de cada um.
+
+* Espaços privativos - Em espaço privativos, quando falamos de conservação da água, os seguintes itens são avaliados, a existência de um medidor individual acessível, sistema de leitura remota, especificação da pressão de alimentação na memória de cálculo, limitação da distância entre o aquecedor e os pontos de consumo de água quente, uma bacia sanitária de volume reduzido com caixa de descarga e existência de aquecedores individuais.
+
+* Espaços coletivos - Já no espaço coletivo, os parâmetros são o seguinte, ter um sistema para irrigação coletivo provisório ou definitivo, seguir a norma francesa, um medido do cansumo das áreas coletivas.
